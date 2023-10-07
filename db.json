@@ -1,0 +1,81 @@
+{
+  "data": [
+    {
+      "title": "111 Kode HTML untuk Belajar Kilat",
+      "price": "65000",
+      "img": "https://cdn.gramedia.com/uploads/items/9786020496863_111_Kode_HTML.jpg",
+      "description": "Terbit: 8 April 2019\nPenerbit: Elex Media Komputindo\nFormat: soft-cover\nPenulis: Arista Prasetyo Adi\nISBN: 9786020496863\nJumlah halaman: 176\nHarga: Rp 56.800\nDimensi: 21 x 14 cm",
+      "id": 1
+    },
+    {
+      "title": "HTML, PHP, dan MySQL untuk Pemula",
+      "price": "65000",
+      "img": "https://cdn.gramedia.com/uploads/items/9786020486222_HTML_PHP_dan_MySQL_untuk_Pemula.jpg",
+      "description": "Jumlah Halaman: 200\nPenerbit: Elex Media Komputindo\nTanggal: Terbit 3 Des 2018\nBerat: 0.3 kg\nISBN: 9786020486222\nLebar: 21 cm\nBahasa: Indonesia\nPanjang: 14cm",
+      "id": 2
+    },
+    {
+      "title": "Kalkulus Diferensial & Integral: Teori dan Aplikasi",
+      "price": "63000",
+      "img": "https://cdn.gramedia.com/uploads/items/9786021186558.jpg",
+      "description": "Judul: Kalkulus Diferensial & Integral: Teori dan Aplikasi\nPenulis: Dr. Sudaryono\nJumlah Halaman: 250 hlm\nTahun Terbit: 20 Agustus 2015\nPenerbit: Kencana\nISBN: 9786021186558\nBahasa: Indonesia\nBerat Buku: 0,280 kg\nDimensi Buku: 14 x 21 cm",
+      "id": 3
+    },
+    {
+      "title": "Buku Sakti HTML, CSS & Javascript : Pemrograman Web Itu Gampang",
+      "price": "60000",
+      "img": "https://cdn.gramedia.com/uploads/items/img263_TOe77MD.jpg",
+      "description": "Cover : Soft Cover\nTebal : 270 Halaman\nTanggal Terbit: 22 Oktober 2019\nISBN : 9786237324515\nPenulis: Adam Saputra\nPenerbit : Start Up\nBerat : 0.207 kg\nDimensi : 20 x 14 cm",
+      "id": 4
+    },
+    {
+      "title": "1 Jam Ahli Pemrograman : HTML, CSS, Dan Javascript",
+      "price": "68000",
+      "img": "https://cdn.gramedia.com/uploads/picture_meta/2023/8/2/gcfajqewtejwe7wplsdqv8.png",
+      "description": "Kategori : Programming\nIsbn : 9786234006292\nPenerbit : Anak Hebat Indonesia\nPenulis : Adam Saputra, S.Si.\nKetebalan : 234\nDimensi : 14x20\nBahasa : Indonesia\nTahun Terbit : Cetakan Pertama Agustus 2023",
+      "id": 5
+    },
+    {
+      "title": "Semua Bisa Menjadi Programmer Python Basic",
+      "price": "42800",
+      "img": "https://cdn.gramedia.com/uploads/items/9786020449890_Semua-Bisa-Menjadi-Programmer-Python-Basic.jpg",
+      "description": "Jumlah Halaman: 154\nPenerbit: Elex Media Komputindo\nTanggal Terbit: 24 Nov 2017\nISBN: 9786020449890\nBahasa: Indonesia",
+      "id": 6
+    },
+    {
+      "title": "Fundamental Of Python For Machine Learning",
+      "price": "59000",
+      "img": "https://cdn.gramedia.com/uploads/items/img20200805_17272666.jpg",
+      "description": "Jumlah Halaman: 160\nPenerbit: Gava Media\nTanggal Terbit: 15 Nov 2018\nBerat: 0.225 kg\nISBN: 9786025568404\nLebar: 16.0 cm\nBahasa: Indonesia\nPanjang: 23.0cm",
+      "id": 7
+    },
+    {
+      "title": "Menguasai Pemrograman Berorientasi Objek",
+      "price": "106000",
+      "img": "https://cdn.gramedia.com/uploads/items/menguasai_pemrograman.jpg",
+      "description": "Penulis : Ade Rahmat Iskandar\nPenerbit : Informatika\nTahun Terbit : 8 Februari 2020\nJumlah Halaman : 462 halaman\nBerat : 520 gram\nDimensi (P x L) : 24 x 16 cm\nISBN : 9786237131236\nCover : Soft-cover\nText Bahasa : Bahasa Indonesia",
+      "id": 8
+    },
+    {
+      "title": "Bootstrap CSS Framework",
+      "price": "38000",
+      "img": "https://cdn.gramedia.com/uploads/items/9789792972283_Bootstrap-CSS-Framework.jpg",
+      "description": "Jumlah Halaman: 136\nPenerbit: Andi Publisher\nTanggal Terbit: 5 Feb 2019\nBerat: 0.22 kg\nISBN: 9789792972283\nLebar: 16.0 cm\nBahasa: Indonesia\nPanjang: 23.0cm",
+      "id": 9
+    },
+    {
+      "title": "Panduan Praktis Dan Jitu Menguasai Framework Laravel 6",
+      "price": "58000",
+      "img": "https://cdn.gramedia.com/uploads/items/20200823044432_FRAMEWORK_LARAVEL_6_-_Copy_-_Copy.jpg",
+      "description": "Judul : Panduan Praktis Dan Jitu Menguasai Framework Laravel 6\nRating : umum\nCerita & Ilustrasi : Anton Subagia\nTebal : 154 halaman\nBerat : 0,178 kg\nFormat : Soft Cover\nTanggal Terbit : 7 Sep 2020\nDimensi : 21 x 14 cm",
+      "id": 10
+    },
+    {
+      "title": "Jurus Menguasai OOP PHP dengan Framework Langit Inspirasi",
+      "price": "89000",
+      "img": "https://cdn.gramedia.com/uploads/items/9786027117723_Jurus-Menguas.jpg",
+      "description": "Format : Soft cover\nJumlah halaman : 178 halaman\nTanggal terbit : 1 April 2018\nPenerbit : Langit Inspirasi\nPenulis : Yosef Murya Kusuma Ardhana\nPanjang : 21 cm\nLebar : 14 cm\nBerat : 0.25 kg\nISBN : 9786027117723\nBahasa : Indonesia\nBonus yang didapat :\nFile Project Monitoring",
+      "id": 11
+    }
+  ]
+}
